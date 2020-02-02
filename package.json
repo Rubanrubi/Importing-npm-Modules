@@ -1,0 +1,22 @@
+{
+  "name": "importing-npm-modules",
+  "version": "1.0.0",
+  "description": "How to Import a npm module and how to use it...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubanrubi/Importing-npm-Modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubanrubi/Importing-npm-Modules/issues"
+  },
+  "homepage": "https://github.com/Rubanrubi/Importing-npm-Modules#readme",
+  "dependencies": {
+    "validator": "^12.1.0"
+  }
+}
